@@ -13,7 +13,7 @@ namespace Calculator
                 double result = 0;
 
                 Console.Write("-------------");
-                Console.WriteLine("Calculator Program");
+                Console.WriteLine("Calculator Program in C#");
                 Console.WriteLine("-------------");
 
                 Console.WriteLine("Enter number 1");
