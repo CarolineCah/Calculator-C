@@ -1,0 +1,14 @@
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/carolinecah/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.AssemblyReference.cache
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/carolinecah/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
