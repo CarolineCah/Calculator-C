@@ -1,4 +1,4 @@
-﻿public class RecExercise15
+﻿public class RecursiveExercise
 {
     public static void Main()
     {
