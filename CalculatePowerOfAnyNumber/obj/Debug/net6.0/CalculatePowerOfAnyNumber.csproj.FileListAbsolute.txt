@@ -1,0 +1,15 @@
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/bin/Debug/net6.0/CalculatePowerOfAnyNumber
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/bin/Debug/net6.0/CalculatePowerOfAnyNumber.deps.json
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/bin/Debug/net6.0/CalculatePowerOfAnyNumber.runtimeconfig.json
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/bin/Debug/net6.0/CalculatePowerOfAnyNumber.dll
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/bin/Debug/net6.0/CalculatePowerOfAnyNumber.pdb
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.csproj.AssemblyReference.cache
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.AssemblyInfoInputs.cache
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.AssemblyInfo.cs
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.csproj.CoreCompileInputs.cache
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.dll
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/refint/CalculatePowerOfAnyNumber.dll
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.pdb
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/CalculatePowerOfAnyNumber.genruntimeconfig.cache
+/Users/carolinecah/Projects/CalculatePowerOfAnyNumber/CalculatePowerOfAnyNumber/obj/Debug/net6.0/ref/CalculatePowerOfAnyNumber.dll
